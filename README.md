@@ -9,7 +9,7 @@ My goals in creating this repository are:
 So far in my introduction to R and RStudio, I have written the following code: [^1]
 `example <- matrix(c(1, 2, 3, 4, 5, 6, 7, 8), nrow = 4, ncol = 2)`
 
-[^1]: This was done in week two of my first class on Coursera.
+[^1]: This code was written in week two of my Coursera class: The Data Scienctist's Toolbox.
 
 Here are some definitions I've learned along the way:
 
